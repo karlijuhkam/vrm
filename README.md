@@ -1,4 +1,4 @@
-# BCS koolitus - Booking App
+# VRM - Booking App
 ====================================================
 
 This web application is the code base for the teachers as a reference when they give their student an assignment to create a web application according to the given tasks using [Silex](http://silex.sensiolabs.org/).
